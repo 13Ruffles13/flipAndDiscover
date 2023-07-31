@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/flipAndDiscover/static/css/main.657ec6a8.css",
+    "main.js": "/flipAndDiscover/static/js/main.02940ce3.js",
+    "static/media/back.png": "/flipAndDiscover/static/media/back.6ae650187b8fce3c0015.png",
+    "index.html": "/flipAndDiscover/index.html",
+    "main.657ec6a8.css.map": "/flipAndDiscover/static/css/main.657ec6a8.css.map",
+    "main.02940ce3.js.map": "/flipAndDiscover/static/js/main.02940ce3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657ec6a8.css",
+    "static/js/main.02940ce3.js"
+  ]
+}
